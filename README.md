@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤 ~</h1>
+<h1 align="center">~ 🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝓎 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤 ~</h1>
     
 </div>
     <div align="center">
@@ -8,10 +8,9 @@
       </div>
 <div>
 <h2 align="center"> 💫 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💫 </h2>
-<div align="center">
-  <img src="https://media.tenor.com/images/1758115167141810081/tenor.gif" width="250" height="250" alt="Anime Rimuru GIF">
-</div>
-
+  <div align="center">
+<img src="https://media.tenor.com/images/8bbfc40d8135b4c85d7a53d9c07c601d/tenor.gif" align="right">
+  </div>
 <li>
  <b>Name:</b> Andrey</li>
 <li>
@@ -27,11 +26,11 @@
 </div>
 <br>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝓦𝓁𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://media.tenor.com/images/5b491f446a08e1b58a8fd9142d37b5d1/tenor.gif" align="right">
   </div>
 </div>
 <div>
@@ -55,7 +54,7 @@
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://media.tenor.com/images/8bbfc40d8135b4c85d7a53d9c07c601d/tenor.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <br>
