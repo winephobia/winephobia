@@ -17,10 +17,10 @@
 <b>Loves:</b> Anime, Osu, Dota 2, Roblox
 </li>
 <li>
-<b>Hobbys:</b> Web Development, Creating games in Roblox and other platforms (Unreal, Unity)
+<b>Hobbys:</b> Web Development, Creating games in Roblox
 </li>
 <li>
-<b>Working @:</b> Creating games in Roblox
+<b>Working @:</b> PHOBIX
 </li>
 <br><br><br>
 </div>
