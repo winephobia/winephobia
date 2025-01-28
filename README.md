@@ -17,19 +17,13 @@
 <b>Fursona:</b> Snow Fox
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Anime, Osu, Dota 2, Roblox
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Hobbys:</b> Web Development, Creating games in Roblox and other platforms (Unreal, Unity)
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> Creating games in Roblox
 </li>
 <br><br><br>
 </div>
