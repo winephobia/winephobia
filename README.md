@@ -11,9 +11,6 @@
   <div align="center">
 <img src="https://media.tenor.com/images/8bbfc40d8135b4c85d7a53d9c07c601d/tenor.gif" align="right">
   </div>
-<li>
- <b>Name:</b> Andrey</li>
-<li>
 <b>Loves:</b> Anime, Osu, Dota 2, Roblox
 </li>
 <li>
