@@ -8,9 +8,10 @@
       </div>
 <div>
 <h2 align="center"> 💫 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💫 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
+<div align="center">
+  <img src="https://media.tenor.com/images/1758115167141810081/tenor.gif" width="250" height="250" alt="Anime Rimuru GIF">
+</div>
+
 <li>
  <b>Name:</b> Andrey</li>
 <li>
