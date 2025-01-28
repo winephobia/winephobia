@@ -4,7 +4,7 @@
     
 </div>
     <div align="center">
-<img src="https://tenor.com/ru/view/rimuru-rimuru-tempest-rimuru-eyes-gif-22246259"> 
+<img src="https://i.imgur.com/jx17oHT.gif">
       </div>
 <div>
 <h2 align="center"> 💫 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💫 </h2>
