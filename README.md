@@ -4,7 +4,7 @@
     
 </div>
     <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://imgur.com/a/4Zmvmbh">
       </div>
 <div>
 <h2 align="center"> 💫 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💫 </h2>
