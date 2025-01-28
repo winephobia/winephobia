@@ -58,7 +58,11 @@
   </div>
 <br>
 <br>
-<p align="center"><a href="https://discord.gg/Ha4Jn5tmbr" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">
+  <a href="https://discord.gg/Ha4Jn5tmbr" target="_blank">
+    <img src="https://img.shields.io/badge/PHOBIX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 </div>
 <br>
 <div>
