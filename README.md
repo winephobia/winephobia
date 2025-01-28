@@ -62,6 +62,9 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/PHOBIX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://t.me/whoiamhiragana" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram%20-%2317B3E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 </div>
 <br>
